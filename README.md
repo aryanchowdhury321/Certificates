@@ -17,3 +17,14 @@ Welcome! This repository contains my professional certificates, internship compl
 
 ## 👨‍💻 GitHub
 [github.com/aryanchowdhury321](https://github.com/aryanchowdhury321)
+
+---
+
+⭐ Thank you for visiting my certificate repository.
+
+If you'd like to discuss internships, projects, or collaboration opportunities, feel free to connect with me on:
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aryan-chowdhury123
+- 💻 **GitHub:** https://github.com/aryanchowdhury321
+
+_Last updated: July 2026_
