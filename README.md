@@ -4,17 +4,16 @@ Welcome! This repository contains my professional certificates, internship compl
 
 ## 📂 Internship Certificates
 
-- 🚆 Northeast Frontier Railway (Indian Railways)
-- 🏭 Numaligarh Refinery Limited (NRL)
+- 🏭 [Numaligarh Refinery Limited (NRL)](https://github.com/aryanchowdhury321/Certificates/blob/main/nrlInternship.pdf)
+
+- 🚆 [Northeast Frontier Railway (Indian Railways)](https://github.com/aryanchowdhury321/Certificates/blob/main/railwayInternship.pdf)
 
 ## 🏆 Hackathons
 
-- 🥈 Code4Change 3.0 – Semi Finalist
+- 🥈 [Code4Change 3.0 – Semi Finalist](https://github.com/aryanchowdhury321/Certificates/blob/main/code4change.pdf)
 
 ## 🔗 LinkedIn
-
-www.linkedin.com/in/aryan-chowdhury123
+[linkedin.com/in/aryan-chowdhury123](https://www.linkedin.com/in/aryan-chowdhury123)
 
 ## 👨‍💻 GitHub
-
-https://github.com/aryanchowdhury321
+[github.com/aryanchowdhury321](https://github.com/aryanchowdhury321)
